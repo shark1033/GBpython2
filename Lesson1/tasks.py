@@ -85,6 +85,3 @@ def task6():
         for el_str in ff:
             print(el_str)
     '''
-
-
-task6()
